@@ -1,0 +1,26 @@
+{
+    "window.zoomLevel": 0,
+    "cmake.configureOnOpen": true,
+    "editor.largeFileOptimizations": false,
+    "vim.vimrc.path": "$HOME/vsSerialVimSetting/.vimrc",
+    "workbench.colorTheme": "Visual Studio Light",
+    "editor.cursorStyle": "line",
+    "editor.insertSpaces": false,
+    "editor.lineNumbers": "on",
+    "editor.wordSeparators": "/\\()\"':,.;<>~!@#$%^&*|+=[]{}`?-",
+    "editor.wordWrap": "off",
+    "vim.leader": ";",
+    "remote.SSH.remotePlatform": {
+        "192.168.0.18": "linux",
+        "my4G": "linux",
+        "192.168.1.14": "linux",
+        "192.168.0.13": "linux",
+        "192.168.0.10": "linux",
+        "192.168.0.14": "linux"
+    },
+    "security.workspace.trust.untrustedFiles": "open",
+    "terminal.integrated.env.windows":{
+        "DISPLAY": "127.0.0.1:0.0"
+    },
+    "npm.autoDetect": "off"
+}
